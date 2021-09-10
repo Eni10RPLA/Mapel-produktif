@@ -1,0 +1,5 @@
+kompetisi SDKD
+-komunikasi daring sinkron
+-komunikasi daring asinkron
+-Github
+-git.
