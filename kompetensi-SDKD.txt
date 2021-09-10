@@ -4,4 +4,7 @@ kompetisi SDKD
 -komunikasi daring asinkron
 *email
 -Github
+-membuat akun
+-membuat repository
 -git.
+
