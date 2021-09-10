@@ -5,7 +5,7 @@ kompetisi SDKD
 *email
 -Github
 -membuat akun
--membuat repository
+-membuat repository(file baru dan commit)
 -git.
 -belum
 
