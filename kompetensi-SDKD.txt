@@ -7,4 +7,5 @@ kompetisi SDKD
 -membuat akun
 -membuat repository
 -git.
+-belum
 
